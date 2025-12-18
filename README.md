@@ -1,3 +1,4 @@
+
 # BlueWallet - A Bitcoin & Lightning Wallet
 
 [![GitHub tag](https://img.shields.io/badge/dynamic/json.svg?url=https://raw.githubusercontent.com/BlueWallet/BlueWallet/master/package.json&query=$.version&label=Version)](https://github.com/BlueWallet/BlueWallet)
